@@ -1,0 +1,8 @@
+<dataset>
+	<organization org_id="1" name="01" type="Big" />
+	<organization org_id="2" name="02" type="Big" />
+	<role role_id="1" name="ADMIN" />
+	<role role_id="2" name="USER" />
+	<org_user org_user_id="1" email="soumya@sengupta.name" password="pword" first_name="Soumya" last_name="Sengupta" org_id="1" role_id="1" />
+	<org_user org_user_id="2" email="devoki@gmail.com" password="pword" first_name="Devoki" last_name="Sengupta" org_id="1" role_id="2" />
+</dataset>
